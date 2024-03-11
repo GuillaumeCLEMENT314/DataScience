@@ -1,4 +1,4 @@
-APPLE QUALITY DATA ANALYSIS
+#APPLE QUALITY DATA ANALYSIS
 
 Motivation : Making here a notebook applying the principles of exploratory data analysis, data tranforming and performing regression models and predictions from the available data.
 Pupose : Showing and keeping a trace of the different methods applied to a particular exemple, as well as giving a simple example of what I can quickly setup.
